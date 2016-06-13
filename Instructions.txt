@@ -1,0 +1,5 @@
+To create database run CreateDatabase.php with MongoDB PHP Installed.
+
+Test on index.php.
+
+If MongoDB & PHP is not installed, you can use ZWAMP for a quick install (extract and use).
